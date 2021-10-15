@@ -1,6 +1,6 @@
 ### Ciao! 👋
 
-Sono Paolo Massimo Veneziani e sono uno sviluppatore Junior Angular.
+Sono Paolo Veneziani e sono uno sviluppatore Junior Angular.
 
 Ho frequentato un corso della durata di sei mesi con Develhope e ho imparato l'utilizzo del framework Angular.
 Ho conoscenze pregresse di C e C++, ma in questo corso ho affrontato e imparato a utilizzare, oltre HTML e CSS,  
