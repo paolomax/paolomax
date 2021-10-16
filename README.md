@@ -3,11 +3,9 @@
 Sono Paolo Veneziani e sono uno sviluppatore Junior Angular.
 
 Ho frequentato un corso della durata di sei mesi con Develhope e ho imparato l'utilizzo del framework Angular.
-Ho conoscenze pregresse di C e C++, ma in questo corso ho affrontato e imparato a utilizzare, oltre HTML e CSS,  
-Javascript e Typescript.
+Ho conoscenze pregresse di C e C++, ma in questo corso ho affrontato e imparato a utilizzare, oltre HTML e CSS, Javascript e Typescript.
 
-Tra le repo pubbliche è possibile trovare alcuni lavori a cui ho collaborato, tra cui una Single Page Application
-che si occupa di ricevere dei dati di Progetti e visualizzarli, e un clone del sito Apple realizzato con RxJS.
+Tra le repo pubbliche è possibile trovare alcuni lavori a cui ho collaborato, tra cui una Single Page Application che si occupa di ricevere dei dati di Progetti e visualizzarli, e un clone del sito Apple realizzato con RxJS.
 
 <!--
 **paolomax/paolomax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
