@@ -6,7 +6,7 @@
 I'm Paolo Veneziani and I'm a Junior *Angular* developer.
 <br>
 <br>
-I've attended a six months course with Develhope and learned how to use the Angular framework. 
+I've attended a six months course with Develhope and learned to use the Angular framework. 
 <br>
 <br>
 I have previous knowledge of C and C++,  but in this course I have learned to use, in addition to HTML and CSS, *Javascript* and *Typescript*.
