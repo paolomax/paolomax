@@ -1,23 +1,15 @@
-### Ciao! 👋
+# Hi!  👋
 
-Sono Paolo Veneziani e sono uno sviluppatore Junior Angular.
-
-Ho frequentato un corso della durata di sei mesi con Develhope e ho imparato l'utilizzo del framework Angular.
-Ho conoscenze pregresse di C e C++, ma in questo corso ho affrontato e imparato a utilizzare, oltre HTML e CSS, Javascript e Typescript.
-
-Tra le repo pubbliche è possibile trovare alcuni lavori a cui ho collaborato, tra cui una Single Page Application che si occupa di ricevere dei dati di Progetti e visualizzarli, e un clone del sito Apple realizzato con RxJS.
-
-<!--
-**paolomax/paolomax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.angular.io"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" align="left" height="30" width="30" ></a>
+<br>
+<br>
+I'm Paolo Veneziani and I'm a Junior *Angular* developer.
+<br>
+<br>
+I've attended a six months course with Develhope and learned how to use the Angular framework. 
+<br>
+<br>
+I have previous knowledge of C and C++,  but in this course I have learned to use, in addition to HTML and CSS, *Javascript* and *Typescript*.
+<br>
+<br>
+Among my *public repos* it is possible to find some works I have collaborated on, including a Single Page Application which takes input data from a Form and shows them in an organized and captivating way. There's also a clone of the Apple *Mac* page.</div>
