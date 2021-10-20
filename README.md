@@ -1,6 +1,8 @@
 # Hi!  👋
 
 <a href="http://www.angular.io"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" align="left" height="30" width="30" ></a>
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" align="left" height="30" width="30"></a>
+
 <br>
 <br>
 I'm Paolo Veneziani and I'm a Junior *Angular* developer.
