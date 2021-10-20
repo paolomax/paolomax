@@ -17,4 +17,14 @@ I have previous knowledge of C and C++,  and in this course I have learned to us
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5M65UFf7_hIfG_S6Z1S2qaB8ouSnZLyPHCA-xJeRP-qM0YErQ24F7P3Bg0lFARW6XFuo&usqp=CAU" align="left" height="30" width="30"></a>
 <br>
 <br>
-Among my *public repos* it is possible to find some works I have collaborated on, including a Single Page Application which takes input data for some Projects from a Form, and shows them in an organized and captivating way. There's also a clone of the Apple *Mac* page which I made as a group project
+Among my *public repos* it is possible to find some works I have collaborated on, including a Single Page Application which takes input data for some Projects from a Form, and shows them in an organized and captivating way. There's also a clone of the Apple *Mac* page which I made as a group project.
+<br>
+<br>
+I am a native speaker of Italian, I speak English at an advanced level, and I know the basics of the Norwegian and Danish languages.
+<br>
+<br>
+<a href="mailto:paolo.veneziani@hotmail.com"><img src="https://thumbs.dreamstime.com/b/icona-del-email-isolata-su-fondo-bianco-106510001.jpg" align="left" height="30" width="30"></a> You can message me at paolo.veneziani@hotmail.com
+<br>
+<br>
+<a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/" style="text-decoration: none"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" align="left" height="30" width="30"></a>My <a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/"> LinkedIn Profile</a>
+
