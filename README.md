@@ -20,6 +20,9 @@ I have previous knowledge of C and C++,  and in this course I have learned to us
 Among my *public repos* it is possible to find some works I have collaborated on, including a Single Page Application which takes input data for some Projects from a Form, and shows them in an organized and captivating way. There's also a clone of the Apple *Mac* page which I made as a group project.
 <br>
 <br>
+I also recently added a small App that retrieves jokes thanks to a Web API and allows the user to interact with them. More information can be found in the README file.
+<br>
+<br>
 I am a native speaker of Italian, I speak English at an advanced level, and I know the basics of the Norwegian and Danish languages.
 <br>
 <br>
