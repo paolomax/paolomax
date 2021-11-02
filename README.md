@@ -29,5 +29,4 @@ I am a native speaker of Italian, I speak English at an advanced level, and I kn
 <a href="mailto:paolo.veneziani@hotmail.com"><img src="https://thumbs.dreamstime.com/b/icona-del-email-isolata-su-fondo-bianco-106510001.jpg" align="left" height="30" width="30"></a> You can message me at paolo.veneziani@hotmail.com
 <br>
 <br>
-<a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/" style="text-decoration: none"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" align="left" height="30" width="30"></a>My <a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/"> LinkedIn Profile</a>
-. 
+<a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/" style="text-decoration: none"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" align="left" height="30" width="30"></a>My <a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/"> LinkedIn Profile</a
