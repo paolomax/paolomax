@@ -30,4 +30,4 @@ I am a native speaker of Italian, I speak English at an advanced level, and I kn
 <br>
 <br>
 <a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/" style="text-decoration: none"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" align="left" height="30" width="30"></a>My <a href="https://www.linkedin.com/in/paolo-massimo-veneziani-12b31b219/"> LinkedIn Profile</a>
-
+. 
