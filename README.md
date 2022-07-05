@@ -11,7 +11,6 @@ I have previous knowledge of C and C++,  and in this course I have learned to us
 <br>
 I am currently working at *Qwince*, where I am working with Vue and Laravel frameworks.
 <br>
-<br>
 
 <a href="http://www.vuejs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" align="left" height="30" width="30" ></a>
 <a href="http://www.vuejs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1920px-Laravel.svg.png" align="left" height="30" width="30" ></a>
