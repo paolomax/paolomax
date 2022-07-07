@@ -13,7 +13,7 @@ I am currently working at *Qwince*, where I am working with Vue and Laravel fram
 <br>
 
 <a href="http://www.vuejs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" align="left" height="30" width="30" ></a>
-<a href="http://www.vuejs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1920px-Laravel.svg.png" align="left" height="30" width="30" ></a>
+<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1920px-Laravel.svg.png" align="left" height="30" width="30" ></a>
 <a href="http://www.angular.io"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" align="left" height="30" width="30" ></a>
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" align="left" height="30" width="30"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" align="left" height="30" width="30"></a>
